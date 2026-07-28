@@ -24,20 +24,20 @@
 
 ```typescript
 const surojiddin: Developer = {
-    name: "Surojidddin Jumaniyoozv",
+    name: "Surojiddin Jumaniyozov",
     role: "Software Engineer",
-    company: "UNICON-SOFT",
-    location: "Tashkent, Uzbekistan",
-    hometown: "Urgench, Uzbekistan",
+    company: "Department of Digital Development",
+    location: "Tashkent, Tashkent, Uzbekistan",
+    hometown: "Urgench, Khorezm, Uzbekistan",
     education: "Urgench branch of TUIT (al-Khwarizmi) — Computer Engineering",
     experience: "7+ years",
     languages: ["Uzbek", "English", "Russian"],
     currentFocus: [
         "Full-stack development for government systems",
-        "3D web experiences with React Three Fiber",
-        "Open-source React templates & tooling",
+        "Bringing personal startup ideas to life",
+        "Developing my personal portfolio website",
     ],
-    funFact: "I build 3D worlds in the browser for fun 🌍",
+    funFact: "No workday is complete without unwinding with a game of Dota 2",
 };
 ```
 
@@ -47,10 +47,11 @@ const surojiddin: Developer = {
 
 ### 🎯 What I'm Currently Working On
 
-- 🏛️ Building customs authority systems at **UNICON-SOFT**
-- 📦 Maintaining open-source React templates & boilerplates
-- 🤖 Building **TeamFlow** — AI-powered analyzer for IT teams
-- ✍️ Writing technical articles on [DEV.to](https://dev.to/surojiddin)
+- 🏛️ Crafting digital solutions for government institutions
+- 🚀 Growing my startup — CyberShop.uz
+- 🔒 Building a secret startup (can't reveal it just yet 👀)
+- 🎨 Creating a portfolio that blends creativity with Uzbek identity
+- 🧙 Grinding Invoker mechanics after every coding session
 
 </td>
 <td width="50%" valign="top">
@@ -60,8 +61,8 @@ const surojiddin: Developer = {
 - 🎓 Graduated from **TUIT** (al-Khwarizmi branch), Urgench
 - 💼 **7+ years** of professional software engineering
 - 🏗️ Experienced in building **enterprise-grade** applications
-- 🌍 Languages: Uzbek, English - B2 , Russian - A2
-- 🎮 Love creating immersive **3D web experiences**
+- 🌍 Languages: Uzbek, English - A2 , Russian - A2
+- 🎮 I enjoy building and working on new startups**
 - ☕ Fueled by curiosity and strong coffee
 
 </td>
@@ -82,7 +83,8 @@ const surojiddin: Developer = {
 
 | Period             | Company                    | Role                |
 |--------------------|----------------------------|---------------------|
-| **2025 — Present** | **UNICON-SOFT**, Tashkent  | Software Engineer   |
+| **2026 — Present** | **Department of Digital Development**, Tashkent  | Software Engineer   |
+| **2025 — 2026**    | **UNICON-SOFT**, Tashkent  | Software Engineer   |
 | **2022 — 2025**    | **IT-FORLEAD**, Urgench    | Software Engineer   |
 
 ---
