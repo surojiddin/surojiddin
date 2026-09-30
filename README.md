@@ -72,8 +72,35 @@ const surojiddin: Developer = {
 ---
 
 ### 🛠 Tech Stack
+
+**Before AI**
 <p>
-  <img src="https://skillicons.dev/icons?i=scala,java,js,ts,react,next,node,postgres,docker,git,linux" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/FP%20Scala-8B5CF6?style=flat-square&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/Play2-2D2D2D?style=flat-square" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinia-FFE165?style=flat-square&logo=pinia&logoColor=black" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+**After AI**
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
 </p>
 
 ---
@@ -81,11 +108,12 @@ const surojiddin: Developer = {
 <!-- WORK EXPERIENCE -->
 ## 💼 Experience
 
-| Period             | Company                    | Role                |
-|--------------------|----------------------------|---------------------|
-| **2026 — Present** | **Department of Digital Development**, Tashkent  | Software Engineer   |
-| **2025 — 2026**    | **UNICON-SOFT**, Tashkent  | Software Engineer   |
-| **2022 — 2025**    | **IT-FORLEAD**, Urgench    | Software Engineer   |
+| Period                  | Company                    | Role                | Employment Type       |
+|-------------------------|----------------------------|---------------------|------------------------|
+| **May 2026 — Present**  | **Department of Digital Development**, Tashkent  | Software Engineer   | Full-time (On-site)   |
+| **Dec 2025 — Feb 2026** | **UNICON-SOFT**, Tashkent  | Software Engineer   | Full-time (On-site)   |
+| **Aug 2024 — Jan 2025** | **"UrganchTransGaz" Unitary Enterprise**, Urgench | Software Engineer   | Contract (Hybrid)     |
+| **Mar 2022 — Nov 2025** | **IT-FORLEAD**, Urgench    | Software Engineer   | Full-time (On-site)   |
 
 ---
 
