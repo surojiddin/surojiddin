@@ -108,12 +108,13 @@ const surojiddin: Developer = {
 <!-- WORK EXPERIENCE -->
 ## 💼 Experience
 
-| Period                  | Company                    | Role                | Employment Type       |
-|-------------------------|----------------------------|---------------------|------------------------|
-| **May 2026 — Present**  | **Department of Digital Development**, Tashkent  | Software Engineer   | Full-time (On-site)   |
-| **Dec 2025 — Feb 2026** | **UNICON-SOFT**, Tashkent  | Software Engineer   | Full-time (On-site)   |
-| **Aug 2024 — Jan 2025** | **"UrganchTransGaz" Unitary Enterprise**, Urgench | Software Engineer   | Contract (Hybrid)     |
-| **Mar 2022 — Nov 2025** | **IT-FORLEAD**, Urgench    | Software Engineer   | Full-time (On-site)   |
+| Period                  | Company                                           | Role                | Employment Type     |
+|-------------------------|---------------------------------------------------|---------------------|---------------------|
+| **May 2026 — Present**  | **Department of Digital Development**, Tashkent   | Software Engineer   | Full-time (On-site) |
+| **Oct 2026 — Present**  | **Siva**, Urgench, Tashkent                       | Software Engineer   | Part-time (Remote)  |
+| **Dec 2025 — Feb 2026** | **UNICON-SOFT**, Tashkent                         | Software Engineer   | Full-time (On-site) |
+| **Aug 2024 — Jan 2025** | **"UrganchTransGaz" Unitary Enterprise**, Urgench | Software Engineer   | Contract (Hybrid)   |
+| **Mar 2022 — Nov 2025** | **IT-FORLEAD**, Urgench                           | Software Engineer   | Full-time (On-site) |
 
 ---
 
